@@ -120,6 +120,8 @@ predict_image(test_image_path, model)
 ## Demonstração
 
 ### Video VGG-16 (Treinamento) 
+<iframe width="560" height="315" src="https://youtu.be/otSIr51c9sQ" frameborder="0" allowfullscreen></iframe>
+
 https://youtu.be/otSIr51c9sQ
 
 ### Video VGG-16 (Demostração)
