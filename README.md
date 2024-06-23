@@ -86,7 +86,7 @@ python train_model.py
 
 1. Use o script predict_image.py para fazer previsões em novas imagens:
 ```bash
-# predict_image.py
+# python predict_image.py
 
 import tensorflow as tf
 from tensorflow.keras.models import load_model
